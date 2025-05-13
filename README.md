@@ -13,7 +13,7 @@ The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](h
 - `HEDIS2024Documentation.docx` – Documentation describing HEDIS rates and categories of care.
 - `MADictionary2024.xlsx` – Maps indicator keys to specific HEDIS measures.
 - `HEDIS2024.xlsx` – Raw dataset with HEDIS performance data and plan metadata.
-- `hedis_measures.csv` – Cleaned dataset used in the regression and descriptive statistics.
+- `hedis_measures.csv` – Contains HEDIS rate data at the contract level.
 - `general.csv` – Contains plan-level metadata, including enrollment (plan size).
 
 ---
