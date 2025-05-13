@@ -1,12 +1,12 @@
 # BUS-390 Final Research Project  
 **A Statistical Approach to Understanding Plan Size and Its Effect on HEDIS Performance in Medicare Advantage**
 
-## 📊 Project Overview
+## Project Overview
 This project explores whether Medicare Advantage (MA) plan size is associated with differences in HEDIS (Healthcare Effectiveness Data and Information Set) performance across categories of care. Using linear regression and quartile-based descriptive statistics, we analyze the relationship between plan enrollment size and quality performance across dozens of care categories.
 
 ---
 
-## 📁 Dataset Files
+## Dataset Files
 
 The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-advantagepart-d-contract-and-enrollment-data/ma-hedis-public-use-files/ma-hedis-public-use-files-0):
 
@@ -18,7 +18,7 @@ The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](h
 
 ---
 
-## 📂 R Code Files and Outputs
+## R Code Files and Outputs
 
 ### Regression Analysis and Table Creation
 
@@ -42,7 +42,7 @@ The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](h
 
 ---
 
-## 📈 Figures
+## Figures
 
 - **Figure 1**  
   A bar chart displaying the distribution of HEDIS rate changes across categories of care.  
@@ -51,7 +51,7 @@ The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](h
 
 ---
 
-## 📌 Citation
+## Citation
 
 **Data Source:**  
 Centers for Medicare & Medicaid Services. *MA HEDIS Public Use Files*.  
