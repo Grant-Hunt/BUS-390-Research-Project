@@ -42,6 +42,17 @@ The following files were obtained from CMS.gov’s [MA HEDIS Public Use Files](h
 
 ---
 
+## Use of AI Assistance
+
+All R scripts used in this project were originally generated with the assistance of **ChatGPT (OpenAI)**. ChatGPT was used to:
+- Structure R scripts for regression modeling, data wrangling, and table generation
+- Debug code and adapt syntax to the structure of the Medicare Advantage HEDIS datasets
+- Improve code readability, efficiency, and reproducibility
+
+The scripts were subsequently reviewed and manually edited to ensure they aligned with the dataset structure and research objectives. Final outputs were validated using visual inspection and descriptive checks.
+
+---
+
 ## Figures
 
 - **Figure 1**  
